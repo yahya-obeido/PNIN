@@ -1,0 +1,26 @@
+Arduino Nano
+MPU6050 IMU Sensor
+2AA Batteries with holder
+5v boost converter
+digital potentiometer
+12v Boost Converter (Stage 1)
+High Voltage Boost Converter (Stage 2)
+2 Mosfets Controlling input and output voltage to the boost converter
+INA219 Current Sensor
+2 resistors as very basic voltage sensor
+OLED Screen
+Rotary Encoder
+ESP01 with programming switch
+2 Debugging LEDs
+Leave space for more LEDs/PBs
+
+pinout:
+IMU, oled, current sensor and digital potentiometer are I2C
+ESP01 is UART Serial
+Rotary Encoder :
+Rotary Encoder PB:
+Input Voltage Mosfet:
+Output Voltage Mosfet:
+voltage sensor: A0
+LED1:
+LED2:

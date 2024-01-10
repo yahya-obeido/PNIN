@@ -1,0 +1,9 @@
+List of materials for phase one:
+1- Multiple IMUs to test different qualities and the sensor with best price/performance balance for our requirements
+https://mikroelectron.com/Product/9DOF-9-AXIS-IMU-TTL-MODULE-GY-951/
+https://mikroelectron.com/Product/6-Axis-Accelerometer-Gyroscope-MPU6050-GY521/
+https://mikroelectron.com/Product/9DOF-IMU-Sensor-GY-85/
+https://mikroelectron.com/Product/BMX055-IMU-sensor-9DoF/
+2- Lithium batteries start estimating battery life
+3- ESP32 microcontrollers (minimum x2, recommended x4)
+4- Prototyping tools
