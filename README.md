@@ -27,7 +27,7 @@ Explain the purpose of your hardware project and provide a brief overview.
 ## Embedded System Design
 
 
-![Block Image](PNIN%2technical/block.png)
+![Block Image](PNIN%2Technical/block.png)
 
 ## Software Design
 
@@ -36,7 +36,7 @@ To be added later.
 ## PCB Design
 
 
-![PCB Image](PNIN%2technical/pcb.jpg)
+![PCB Image](PNIN%2Technical/pcb.jpg)
 
 ## Enclosure
 
