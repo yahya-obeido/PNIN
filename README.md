@@ -26,7 +26,8 @@ Explain the purpose of your hardware project and provide a brief overview.
 
 ## Embedded System Design
 
-List the hardware components required to run your project. Include links or specifications if applicable.
+
+![Block Image](PNIN%2technical/block.png)
 
 ## Software Design
 
