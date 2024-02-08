@@ -34,7 +34,8 @@ To be added later.
 
 ## PCB Design
 
-Explain how users can use your hardware project. Provide code snippets or examples to demonstrate basic usage.
+
+![PCB Image](PNIN%2technical/pcb.jpg)
 
 ## Enclosure
 
