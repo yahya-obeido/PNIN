@@ -2,7 +2,7 @@
 
 Brief description of your hardware project.
 
-![Project Image](PNIN Non-technical/PNIN.jpeg)
+![Project Image](PNIN%20Non-technical/PNIN.jpeg)
 ## Table of Contents
 
 - [Introduction](#introduction)
