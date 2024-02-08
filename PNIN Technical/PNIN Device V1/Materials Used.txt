@@ -1,6 +1,5 @@
 Arduino Nano
 MPU6050 IMU Sensor
-2AA Batteries with holder
 5v boost converter
 digital potentiometer
 12v Boost Converter (Stage 1)
@@ -11,16 +10,19 @@ INA219 Current Sensor
 OLED Screen
 Rotary Encoder
 ESP01 with programming switch
-2 Debugging LEDs
+3 Debugging LEDs
 Leave space for more LEDs/PBs
 
 pinout:
 IMU, oled, current sensor and digital potentiometer are I2C
+MPU6050 INT Pin: 11
 ESP01 is UART Serial
-Rotary Encoder :
-Rotary Encoder PB:
-Input Voltage Mosfet:
-Output Voltage Mosfet:
+Rotary Encoder : 2, 4
+Rotary Encoder PB: 7
+Input Voltage Mosfet: 8
+Output Voltage Mosfet: 10
 voltage sensor: A0
-LED1:
-LED2:
+LED1: 3
+LED2: 5
+LED3: 6
+LED4: 9
