@@ -1,6 +1,6 @@
 # PNIN Device V1 Documentation
 
-Brief description of your hardware project.
+Brief description of the hardware project.
 
 ![Project Image](PNIN%20Non-technical/PNIN.jpeg)
 ## Table of Contents
@@ -18,7 +18,11 @@ Explain the purpose of your hardware project and provide a brief overview.
 
 ## Features
 
-Highlight key features of your hardware project.
+-Works on a single 3.7V lithium battery cell
+-Output Voltage Range: 85-120V
+-Maximum Ourput Current: 200mA
+-Price (PCB & Electronics): TBD
+-PCB Board Size: 
 
 ## Embedded System Design
 
@@ -26,7 +30,7 @@ List the hardware components required to run your project. Include links or spec
 
 ## Software Design
 
-Provide step-by-step instructions on how to set up your hardware project. Include any dependencies or external libraries that need to be installed.
+To be added later.
 
 ## PCB Design
 
